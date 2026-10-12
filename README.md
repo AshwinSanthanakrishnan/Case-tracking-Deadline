@@ -1,4 +1,4 @@
-# Case Deadline Tracker
+# Case Deadline Tracker Automation
 
 A small deadline and case tracker for an immigration law firm. It reads cases from a spreadsheet, works out how urgent each deadline is, and gives you:
 
