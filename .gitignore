@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+output/
+logs/
+# Real client data should never be committed. Sample data is regenerated with make_sample_data.py.
+cases.xlsx
+cases.csv
+~$*.xlsx
+demo/
+.DS_Store
